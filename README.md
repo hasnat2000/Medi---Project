@@ -1,2 +1,2 @@
-# Medi---Project
-This is medicine type project where you can find desired medicine . At first you should resister as a medical suplier
+# Medi-Project
+This is a medicine-type project where you can find the desired medicine. At first, you should register as a medical supplier
